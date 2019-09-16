@@ -15,6 +15,8 @@ dotnet new xunit -n SimpleAPI.Tests
 dotnet sln SimpleAPI.sln add ./SimpleAPI/SimpleAPI.csproj ./SimpleAPI.Tests/SimpleAPI.Tests.csproj
 dotnet add ./SimpleAPI.Tests/SimpleAPI.Tests.csproj reference ./SimpleAPI/SimpleAPI.csproj
 
+https://dotnetplaybook.com/build-test-and-deploy-a-rest-api-with-azure-devops/
+
 */
 
 
